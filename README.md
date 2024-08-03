@@ -32,4 +32,4 @@ I am a Computer Science student at Ada. National College for Digital Skills, bas
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/](https://twitter.com/juliano_jg_))
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JULI4N0)
 
-<sup>PS: You Can Click On Each Social Media Button To Go To The Corresponding Page.</sup>
+<sup>PS: You Can Click On Each Button To Go To The Corresponding Page.</sup>
