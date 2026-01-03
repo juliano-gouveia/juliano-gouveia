@@ -1,7 +1,7 @@
 # Hello and welcome to my profile! 👋
 ### I'm Juliano!
 
-I am a Computer Science student at Ada. National College for Digital Skills, based in London. I am currently pursuing an Extended Computer Science Diploma, which is equivalent to three A-Levels.
+I am a former Computer Science student at Ada. National College for Digital Skills, based in London. I am have pursued an Extended Computer Science Diploma, which is equivalent to three A-Levels.
 
 ---
 
